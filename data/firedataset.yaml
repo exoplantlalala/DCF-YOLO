@@ -1,0 +1,12 @@
+
+
+
+train: firedataset/images/train
+val: firedataset/images/val
+test: firedataset/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'smoke', 'fire' ]
