@@ -13,6 +13,12 @@ Extraction code: 0215
   publisher={The Visual Computer}
 }
 
+# Requirements
+```python  
+pip install -r requirements.txt  
+```
+
+
 
 
 
