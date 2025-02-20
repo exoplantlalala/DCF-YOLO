@@ -13,6 +13,6 @@ Extraction code: 0215
   publisher={The Visual Computer}
 }
 
-# Result
+
 
 
