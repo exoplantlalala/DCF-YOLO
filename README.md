@@ -9,6 +9,17 @@
 The complete dataset link is https://pan.baidu.com/s/1NW0S6MjWYbSVjRb1RW1iHA.
 Extraction code: 0215；
 You can obtain the complete dataset using the extraction code at the provided link, which has been divided into train, validation, and test sets as described in the paper. We have also provided both versions with labels and without labels in the link.
+The COCO dataset folder should have the following structure:
+ └── firedataset
+     |
+     ├── images
+        ├── train
+        ├── val
+        └── test
+     └── labels
+        ├── train
+        ├── val
+        └── test
 
 # Citation
 @article{
