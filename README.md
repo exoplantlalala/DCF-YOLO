@@ -12,7 +12,7 @@ You can obtain the complete dataset using the extraction code at the provided li
 
 # Citation
 @article{
-  title={Enhanced YOLOv7-tiny for Small-Scale Fire Detection via Multi-Scale Channel Spatial Attention and Dynamic Upsampling},
+  title={**Enhanced YOLOv7-tiny for Small-Scale Fire Detection via Multi-Scale Channel Spatial Attention and Dynamic Upsampling**},
   publisher={The Visual Computer}
 }
 
@@ -20,6 +20,10 @@ You can obtain the complete dataset using the extraction code at the provided li
 ```python  
 pip install -r requirements.txt  
 ```
+
+# Reference
+*	Lin, X., Sun, S. Z., Huang, W. et al.: Eapt: Efficient attention pyramid transformer for image processing.IEEE Trans. Multimedia. (2023). https://doi.org/10.1109/tmm.2021.3120873.
+*	Shen, B., Li, L., Hu, X. et al.: Point cloud upsampling generative adversarial network based on residual multi-scale off-set attention.Virtual Reality & Intelligent Hardware. (2023). https://doi.org/10.1016/j.vrih.2022.08.016.
 
 
 
