@@ -11,16 +11,15 @@ Extraction code: 0215；
 You can obtain the complete dataset using the extraction code at the provided link, which has been divided into train, validation, and test sets as described in the paper. We have also provided both versions with labels and without labels in the link.
 markdown
 The COCO dataset folder should have the following structure:
- └── firedataset
-     |
-     ├── images
-        ├── train
-        ├── val
-        └── test
-     └── labels
-        ├── train
-        ├── val
-        └── test
+└── firedataset
+├── images
+│ ├── train
+│ ├── val
+│ └── test
+└── labels
+│ ├── train
+│ ├── val
+│ └── test
 
 # Citation
 @article{
