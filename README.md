@@ -4,6 +4,7 @@
 * Code Guidance: Download the dataset in the **Dataset** **link**, put the  images  into "firedatset/images" ,replace the common.py in the DCF-YOLO/models folder with the common.py in the DCF-YOLO folder, and replace the loss.py in the DCF-YOLO/utils folder with the loss.py in the DCF-YOLO folder,and then run the train.py to successfully train our model.
 
 # DOI: 10.5281/zenodo.14880534
+* doi link:https://doi.org/10.5281/zenodo.14880534
 
 # Dataset
 * Dataset link **https://pan.baidu.com/s/1Izk1SITe9_udoUtfcv-ODQ?pwd=6n62** ;extraction code:6n62
