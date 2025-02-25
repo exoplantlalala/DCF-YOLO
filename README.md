@@ -6,7 +6,7 @@
 # DOI: 10.5281/zenodo.14880534
 
 # Dataset
-
+* Dataset link **https://pan.baidu.com/s/1Izk1SITe9_udoUtfcv-ODQ?pwd=6n62** ;extraction code:6n62
 * You can obtain the complete dataset using the extraction code at the provided link, which has been divided into train, validation, and test sets as described in the paper. We have also provided both versions with labels and without labels in the link.
 
 # Citation
@@ -19,9 +19,7 @@
 pip install -r requirements.txt  
 ```
 
-# Reference
-*	Lin, X., Sun, S. Z., Huang, W. et al.: Eapt: Efficient attention pyramid transformer for image processing.IEEE Trans. Multimedia. (2023). https://doi.org/10.1109/tmm.2021.3120873.
-*	Shen, B., Li, L., Hu, X. et al.: Point cloud upsampling generative adversarial network based on residual multi-scale off-set attention.Virtual Reality & Intelligent Hardware. (2023). https://doi.org/10.1016/j.vrih.2022.08.016.
+
 
 
 
